@@ -2,6 +2,8 @@
 
 Ventro helps VCs scale their initial screening process by creating AI versions of their investment team, allowing them to evaluate more founders through personalized pitch simulations. Each AI persona maintains the VC's unique investment thesis and communication style, complete with voice-matched responses powered by ElevenLabs.
 
+![ventro](https://github.com/user-attachments/assets/fee80678-5ed8-49a7-9701-d48426d629e6)
+
 ## Our Vision
 
 The venture capital industry faces a critical inefficiency: VCs spend an enormous amount of time on initial screenings and managing inbound deals, taking away from their ability to focus on high-potential opportunities. Ventro solves this by combining several cutting-edge AI technologies:
