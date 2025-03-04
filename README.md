@@ -4,10 +4,6 @@ Ventro helps VCs scale their initial screening (inbound) process by creating AI 
 
 https://pitch.com/v/ventro-jy9mcx/7dcff4e0-ca7d-48de-bcaa-ffd8cc115f3c
 
-
-![ventro](https://github.com/user-attachments/assets/fee80678-5ed8-49a7-9701-d48426d629e6)
-
-
 ## Our Vision
 
 The venture capital industry faces a critical inefficiency: VCs spend an enormous amount of time on initial screenings and managing inbound deals, taking away from their ability to focus on high-potential opportunities. Ventro solves this by combining several cutting-edge AI technologies:
@@ -17,6 +13,12 @@ The venture capital industry faces a critical inefficiency: VCs spend an enormou
 - Automated note-taking and transcript analysis with Gemini
 - Multilingual support for 24/7 founder engagement
 - Real-time speech-to-video models for partner facial expressions (in development)
+
+## System Design / Screenshots
+
+![ventro](https://github.com/user-attachments/assets/fee80678-5ed8-49a7-9701-d48426d629e6)
+![excalidraw](https://github.com/user-attachments/assets/11f1d7a4-dd62-4482-870b-6935d0b3a6d7)
+
 
 ## Features
 
